@@ -183,11 +183,6 @@ SimpleTodoApp/
 9. **Styling**: Used native React Native components for cross-platform compatibility
 10. **Dependencies**: Minimal dependencies to reduce complexity and potential conflicts
 
-## 🎥 Demo Video
-
-[📹 Watch Demo Video](https://www.loom.com/share/your-video-id)
-
-*Note: Replace with actual Loom video link after recording*
 
 ## 🚨 Troubleshooting
 
@@ -232,22 +227,6 @@ SimpleTodoApp/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed information
-
----
 
 **This project is a part of a hackathon run by https://www.katomaran.com**
 
